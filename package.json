@@ -1,0 +1,13 @@
+{
+    "name": "style-inject-webpack-plugin",
+    "version": "0.0.1",
+    "description": "A plugin for webpack to inject CSS assets to style.",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "repository": "git@github.com:edonet/style-inject-webpack-plugin.git",
+    "author": "edonet <edonet@163.com>",
+    "license": "MIT",
+    "peerDependencies": {
+        "html-webpack-plugin": "^4.3.0"
+    }
+}
